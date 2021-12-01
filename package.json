@@ -1,0 +1,14 @@
+{
+  "name": "adventofcode-2021",
+  "version": "0.0.1",
+  "private": "true",
+  "keywords": [
+    "adventofcode"
+  ],
+  "author": "Eugene Tropin <yarastqt@gmail.com>",
+  "devDependencies": {
+    "@types/node": "16.11.11",
+    "ts-node": "10.4.0",
+    "typescript": "4.5.2"
+  }
+}
